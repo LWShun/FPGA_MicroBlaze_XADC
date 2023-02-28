@@ -1,0 +1,2 @@
+# FPGA_MicroBlaze_XADC
+使用MicroBlaze搭建简易示波器
